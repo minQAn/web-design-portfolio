@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<item>
+		<imgsrc>images/img_tham_01.jpg</imgsrc>
+		<detail>
+			images/img_tham_01_detail.jpg
+			
+		</detail>
+		<tit> 벽돌사진에 합성을 이용한 디자인. </tit>
+		<day>2018.</day>
+		<cata>GRAPHIC</cata>
+	</item>
+
+
+<!-- 2 -->
+	<item>
+		<imgsrc>images/img_tham_02.jpg</imgsrc>
+		<detail>
+			images/img_tham_02_detail.jpg
+			
+		</detail>
+		<tit> 웹 그래픽디자인. </tit>
+		<day>2018.</day>
+		<cata>GRAPHIC</cata>
+	</item>
+
+
+<!-- 3 -->
+	<item>
+		<imgsrc>images/img_tham_03.jpg</imgsrc>
+		<detail>
+			images/img_tham_03_detail.jpg
+			
+		</detail>
+		<tit> 도형을요과 브러쉬를 이용한 그래픽디자인. </tit>
+		<day>2018.</day>
+		<cata>GRAPHIC</cata>
+	</item>
+
+
+<!-- 4 -->
+	<item>
+		<imgsrc>images/img_tham_04.jpg</imgsrc>
+		<detail>
+			images/img_tham_04_detail.jpg
+			
+		</detail>
+		<tit> 엔젤리너스 프로모션 디자인. </tit>
+		<day>2018.</day>
+		<cata>PROMOTION</cata>
+	</item>
+
+
+
+<!-- 5 -->
+	<item>
+		<imgsrc>images/img_tham_05.jpg</imgsrc>
+		<detail>
+			images/img_tham_05_detail.jpg
+			
+		</detail>
+		<tit> 이수영 앨범 프로모션 디자인. </tit>
+		<day>2018.</day>
+		<cata>PROMOTION</cata>
+	</item>
+
+
+
+<!-- 6 --><!-- 이미지2개 -->
+	<item>
+		<imgsrc>images/img_tham_06.jpg</imgsrc>
+		<detail>
+			images/img_tham_06_detail.jpg,
+			images/img_tham_06_detail2.jpg
+			
+		</detail>
+		<tit> 썬칩 프로모션 디자인. </tit>
+		<day>2018.</day>
+		<cata>PROMOTION</cata>
+	</item>
+
+	
+
+<!-- 7 -->
+	<item>
+		<imgsrc>images/img_tham_07.jpg</imgsrc>
+		<detail>
+			images/img_tham_07_detail.jpg
+			
+		</detail>
+		<tit> 웹 디자인. </tit>
+		<day>2018.</day>
+		<cata>UIUX</cata>
+	</item>
+
+
+
+<!-- 8 -->
+	<item>
+		<imgsrc>images/img_tham_08.jpg</imgsrc>
+		<detail>
+			images/img_tham_08_detail.jpg
+			
+		</detail>
+		<tit> 윤도현 앨범 프로모션 디자인 . </tit>
+		<day>2018.</day>
+		<cata>PROMOTION</cata>
+	</item>
+
+
+
+<!-- 9 --><!-- 이미지2개(2) -->
+	<item>
+		<imgsrc>images/img_tham_09.jpg</imgsrc>
+		<detail>
+			images/img_tham_09_detail.jpg,
+			images/img_tham_09_detail2.jpg
+			
+		</detail>
+		<tit> '내가 가본 캐나다' 홈페이지&모바일 기획 및 제작. </tit>
+		<day>2018.</day>
+		<cata>UIUX</cata>
+	</item>
+
+
+
+<!-- 10 -->
+	<item>
+		<imgsrc>images/img_tham_10.jpg</imgsrc>
+		<detail>
+			images/img_tham_10_detail.jpg
+			
+		</detail>
+		<tit> 포토 매니저 그래픽 디자인.</tit>
+		<day>2018.</day>
+		<cata>GRAPHIC</cata>
+	</item>
+
+
+
+<!-- 11 -->
+	<item>
+		<imgsrc>images/img_tham_11.jpg</imgsrc>
+		<detail>
+			images/img_tham_11_detail.jpg
+			
+		</detail>
+		<tit> Book 홈페이지 디자인.</tit>
+		<day>2018.</day>
+		<cata>UIUX</cata>
+	</item>
+
+
+
+<!-- 12 -->
+	<item>
+		<imgsrc>images/img_tham_12.jpg</imgsrc>
+		<detail>
+			images/img_tham_12_detail.jpg
+			
+		</detail>
+		<tit> 레스토랑 앱 모바일 디자인.</tit>
+		<day>2018.</day>
+		<cata>UIUX</cata>
+	</item>
+
+
+
+<!-- 13 --><!-- 이미지2개(3) -->
+	<item>
+		<imgsrc>images/img_tham_13.jpg</imgsrc>
+		<detail>
+			images/img_tham_13_detail.jpg,
+			images/img_tham_13_detail2.jpg
+			
+		</detail>
+		<tit> 포토그래퍼 홈페이지&모바일 디자인.</tit>
+		<day>2018.</day>
+		<cata>UIUX</cata>
+	</item>
+
+
+
+<!-- 14 -->
+	<item>
+		<imgsrc>images/img_tham_14.jpg</imgsrc>
+		<detail>
+			images/img_tham_14_detail.jpg
+			
+		</detail>
+		<tit> 모듈형 홈페이지 디자인.</tit>
+		<day>2018.</day>
+		<cata>UIUX</cata>
+	</item>
+
+
+
+<!-- 15 -->
+	<item>
+		<imgsrc>images/img_tham_15.jpg</imgsrc>
+		<detail>
+			images/img_tham_15_detail.jpg
+			
+		</detail>
+		<tit> 'Norton' 홈페이지 디자인.</tit>
+		<day>2018.</day>
+		<cata>UIUX</cata>
+	</item>
+
+
+
+<!-- 16 -->
+	<item>
+		<imgsrc>images/img_tham_16.jpg</imgsrc>
+		<detail>
+			images/img_tham_16_detail.jpg
+			
+		</detail>
+		<tit> '나이키' 모바일 디자인.</tit>
+		<day>2018.</day>
+		<cata>UIUX</cata>
+	</item>
+
+
+
+<!-- 17 -->
+	<item>
+		<imgsrc>images/img_tham_17.jpg</imgsrc>
+		<detail>
+			images/img_tham_17_detail.jpg
+			
+		</detail>
+		<tit> 'Hanwha Q cells' 회사 홈페이지 디자인.</tit>
+		<day>2018.</day>
+		<cata>UIUX</cata>
+	</item>
+
+
+
+<!-- 18 -->
+	<item>
+		<imgsrc>images/img_tham_18.jpg</imgsrc>
+		<detail>
+			images/img_tham_18_detail.jpg
+			
+		</detail>
+		<tit> '먼데이하우스' 키친선반장 홈페이지 디자인.</tit>
+		<day>2018.</day>
+		<cata>UIUX</cata>
+	</item>
+
+
+
+
+
+
+
+</items>

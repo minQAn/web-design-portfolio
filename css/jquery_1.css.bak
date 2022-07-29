@@ -1,0 +1,25 @@
+@charset 'utf-8'; 
+@import url('common.css');
+
+
+
+
+
+.a{}
+
+.a a{display:inline-block;
+	padding:5px 20px;
+	margin-bottom:10px;
+	text-decoration:none;
+}
+.a a:nth-of-type(1){ background-color:red;
+	display:inline-block;
+	margin-right:5px;
+}
+.a a:nth-of-type(2){ background-color:#ddd;
+}
+
+.a div{	background-color:#000;
+	width:400px; height:400px;
+	display:none;
+}

@@ -1,0 +1,15 @@
+@charset 'utf-8'; 
+
+/*2018-01-29 site01/index* 태그들이 가지고있는 속성값 초기화*/
+html,body{margin:0px;}
+ul,li,dl,dt,dd{
+	margin:0px; padding:0px; list-style:none; 
+}	
+h1,h2,h3,h4,h5,h6,p{margin:0px; padding:0px;}
+table{border-collapse:collapse;}
+img{border:0px;}
+
+a:link,a:hover,a:visited{}
+*{font-family:Myriad Pro;}
+
+.mt100{margin-top:100px; !important;}

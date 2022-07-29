@@ -1,0 +1,65 @@
+$(function(){
+	/* jquery에서 주석은 //내용// */
+//start
+
+	//alert('쉽다쉽다쉽다쉽다');
+	//$('클래스이름').메소드({ });//
+						           /*eq(메소드)는 nth같은 순서 0이 1임, click뒤는 효과줄 명령어*/   
+
+								   
+/*111111*/
+		$('.a a').eq(0).click(function(){     
+			$('.a div').show(500); 		
+		});                         
+
+
+		$('.a a:nth-of-type(2)').click(function(){
+			$('.a div').hide(500);
+		});                   /* 대각선부터 서서히 사라지게하는 값(500이 0.5초임)*/
+
+/*22222*/
+/*		$('.a a').eq(0).click(function(){     
+			$('.a div').fadeIn(500); 		
+		});                         
+
+
+		$('.a a:nth-of-type(2)').eq(0).click(function(){     
+			$('.a div').fadeOut(500); 		
+		});                         
+                             서서히 나왔다가 사라지게함 대문자써야함 In Out
+*/  
+	
+/*33333*/
+/*
+		$('.a a').eq(0).click(function(){     
+			$('.a div').slideDown(500); 		
+		});                         
+
+
+		$('.a a:nth-of-type(2)').eq(0).click(function(){     
+			$('.a div').slideUp(500); 		
+		});                 
+
+									/*슬라이드 밑으로 내려갓다가 올라가기*/
+
+
+//end
+});
+
+
+
+
+
+
+
+
+/*     
+			$('선택자').메소드();
+			$('선택자').click(function(){});
+			$('선택자').show(); 선택자를 보여줘라
+			$('선택자').hide(); 선택자를 감춰라
+
+
+
+			$('선택자').find(); 선택자안에 있는 태그 또는... 
+*/
